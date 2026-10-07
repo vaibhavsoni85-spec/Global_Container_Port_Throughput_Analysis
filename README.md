@@ -24,6 +24,22 @@ UNCTADstat — **Container port throughput, annual (analytical)**, 2020–2024. 
 ├── screenshots/      # Selected project screenshots
 └── visualizations/   # Exported charts
 ```
+## Visualizations
+
+### Q1 — 2024 throughput leaders
+![Top 10 economies by container port throughput in 2024](visualizations/q01_top_10_economies_throughput_2024.png)
+
+### Q2 — Rank changes, 2020–2024
+![Rank changes among the top 10 economies from 2020 to 2024](visualizations/q02_rank_changes_top_10_economies_2020_2024.png)
+
+### Q3 — Absolute and percentage changes, 2020–2024
+![Absolute and percentage changes in throughput from 2020 to 2024](visualizations/q03_absolute_and_percentage_changes_2020_2024.png)
+
+### Q4 — Combined throughput trend
+![Combined throughput trend among economies with complete 2020–2024 data](visualizations/q04_combined_throughput_trend_2020_2024.png)
+
+### Q5 — Year-to-year variability
+![Consistency and variability of year-to-year throughput changes](visualizations/q05_yoy_change_consistency_2020_2024.png)
 
 ## Reports
 
